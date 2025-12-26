@@ -4,57 +4,64 @@
             "Social media": [
                 {
                     "id": 1,
-                    "title": "",
-                    "fontawesome": ""
+                    "title": "linkdin",
+                    "fontawesome": "faLinkedin",
+                    "link":"https://www.linkedin.com/in/hosein-ahadzadeh"
+                },
+                 {
+                    "id": 2,
+                    "title": "github",
+                    "fontawesome": "faGithub",
+                    "link":"https://github.com/Ahadzadeh4"
                 }
             ]
         }
     ],
     "Hero": [
         {
-            "name": "",
-            "litle_description": "",
-            "big_description": ""
+            "name": "حسین احدزاده",
+            "litle_description": "فرانت اند",
+            "big_description": "من فرانت اند کارم "
         }
     ],
     "About": [
         {
-            "img": "",
-            "content": "",
-            "description": ""
+            "img": "PersonallImg",
+            "content": "فقط بربری به مولا",
+            "description": "کیفیثت عالی مخصوص برای صبحونه"
         }
     ],
     "Skills": [
         {
-            "title": "",
-            "description": "",
+            "title": "مهارت ها رو ",
+            "description": "یه نگاه بنداز",
             "skills": [
                 {
                     "id": 1,
-                    "svg": "",
-                    "title": ""
+                    "svg": " <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="w-35 skill-icon text-amber-600"><title>HTML5</title><path fill="currentColor" d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z" /></svg>",
+                    "title": "html"
                 }
             ]
         }
     ],
     "Services": [
         {
-            "title": "",
-            "description": "",
+            "title": "خدماتو",
+            "description": "بیا اینور بازار؟",
             "services": [
                 {
                     "id": 1,
-                    "fontawsome": "",
-                    "title": "",
-                    "description": "",
+                    "fontawsome": "faPuzzlePiece",
+                    "title": "عالی",
+                    "description": "پرتقالی",
                     "advantages": [
                         {
                             "id": 1,
-                            "text": ""
+                            "text": "خیلی عالیه"
                         },
                         {
                             "id": 2,
-                            "text": ""
+                            "text": "بدرد نمی خوره"
                         }
                     ]
                 }
@@ -63,25 +70,25 @@
     ],
     "projects": [
         {
-            "title": "",
-            "description": "",
+            "title": "پروژه ها رو برم",
+            "description": "نگا",
             "projects": [
                 {
                     "id": 1,
-                    "img": "",
-                    "title": "",
-                    "description": "",
-                    "githubLink": "",
+                    "img": "project1",
+                    "title": "سایت شخصی",
+                    "description": "این",
+                    "githubLink": "#",
                     "published": false,
                     "link": "",
                     "technologies": [
                         {
                             "id": 1,
-                            "name": ""
+                            "name": "react"
                         },
                         {
                             "id": 2,
-                            "name": ""
+                            "name": "c++"
                         }
                     ]
                 }
@@ -90,25 +97,21 @@
     ],
     "Contact": [
         {
-            "title": "",
-            "description": "",
+            "title": "تماس با من",
+            "description": "بزنگ",
             "technologies": [
                 {
                     "id": 1,
-                    "title": "",
-                    "svg": ""
-                },
-                {
-                    "id": 2,
-                    "title": "",
-                    "svg": ""
+                    "title": "بیا",
+                    "svg": "<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" className="w-15 text-sky-600"><title>Telegram</title><path fill="currentColor" d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z" /></svg>"
                 }
             ]
         }
     ],
     "Footer": [
         {
-            "text": ""
+            "text": "خدافظ"
         }
     ]
+
 }
