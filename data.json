@@ -1,0 +1,114 @@
+{
+    "Header": [
+        {
+            "Social media": [
+                {
+                    "id": 1,
+                    "title": "",
+                    "fontawesome": ""
+                }
+            ]
+        }
+    ],
+    "Hero": [
+        {
+            "name": "",
+            "litle_description": "",
+            "big_description": ""
+        }
+    ],
+    "About": [
+        {
+            "img": "",
+            "content": "",
+            "description": ""
+        }
+    ],
+    "Skills": [
+        {
+            "title": "",
+            "description": "",
+            "skills": [
+                {
+                    "id": 1,
+                    "svg": "",
+                    "title": ""
+                }
+            ]
+        }
+    ],
+    "Services": [
+        {
+            "title": "",
+            "description": "",
+            "services": [
+                {
+                    "id": 1,
+                    "fontawsome": "",
+                    "title": "",
+                    "description": "",
+                    "advantages": [
+                        {
+                            "id": 1,
+                            "text": ""
+                        },
+                        {
+                            "id": 2,
+                            "text": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "",
+            "description": "",
+            "projects": [
+                {
+                    "id": 1,
+                    "img": "",
+                    "title": "",
+                    "description": "",
+                    "githubLink": "",
+                    "published": false,
+                    "link": "",
+                    "technologies": [
+                        {
+                            "id": 1,
+                            "name": ""
+                        },
+                        {
+                            "id": 2,
+                            "name": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Contact": [
+        {
+            "title": "",
+            "description": "",
+            "technologies": [
+                {
+                    "id": 1,
+                    "title": "",
+                    "svg": ""
+                },
+                {
+                    "id": 2,
+                    "title": "",
+                    "svg": ""
+                }
+            ]
+        }
+    ],
+    "Footer": [
+        {
+            "text": ""
+        }
+    ]
+}
