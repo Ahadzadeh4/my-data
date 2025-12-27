@@ -1,7 +1,7 @@
 {
     "Header": [
         {
-            "Social_media": [
+            "Socialmedia": [
                 {
                     "id": 1,
                     "title": "linkdin",
@@ -115,5 +115,6 @@
     ]
 
 }
+
 
 
