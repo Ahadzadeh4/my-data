@@ -49,16 +49,20 @@
     ],
             "Services": [
                 {
-                    "id": 1,
-                    "fontawesome": "faPuzzlePiece",
-                    "title": "عالی",
-                    "description": "پرتقالی",
-                    "WhyMe":[
+                "title":"چرت و پرت",
+                "description":"امیر علی ملوس باز ",
+                 "WhyMe":[
                 {
                     "id":1,
                     "text":"شینگیلی نانای"
                 }
             ],
+    "services":[
+        {
+                    "id": 1,
+                    "fontawesome": "faPuzzlePiece",
+                    "title": "عالی",
+                    "description": "پرتقالی",
                     "advantages": [
                         {
                             "id": 1,
@@ -70,6 +74,8 @@
                         }
                     ]
                 }
+    ]
+                }   
             ],
     "projects": [
         {
@@ -118,6 +124,7 @@
     ]
 
 }
+
 
 
 
