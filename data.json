@@ -108,7 +108,7 @@
         {
             "title": "تماس با من",
             "description": "بزنگ",
-            "technologies": [
+            "socialmedia_contact": [
                 {
                     "id": 1,
                     "title": "بیا",
@@ -124,6 +124,7 @@
     ]
 
 }
+
 
 
 
