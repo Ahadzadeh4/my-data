@@ -47,22 +47,18 @@
             ]
         }
     ],
-    "Services": [
-        {
-            "title": "خدماتو",
-            "description": "بیا اینور بازار؟",
-            "WhyMe":[
-                {
-                    "id":1,
-                    "text":"شینگیلی نانای"
-                }
-            ],
             "services": [
                 {
                     "id": 1,
                     "fontawsome": "faPuzzlePiece",
                     "title": "عالی",
                     "description": "پرتقالی",
+                    "WhyMe":[
+                {
+                    "id":1,
+                    "text":"شینگیلی نانای"
+                }
+            ],
                     "advantages": [
                         {
                             "id": 1,
@@ -124,6 +120,7 @@
     ]
 
 }
+
 
 
 
