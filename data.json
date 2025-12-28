@@ -50,7 +50,7 @@
             "services": [
                 {
                     "id": 1,
-                    "fontawsome": "faPuzzlePiece",
+                    "fontawesome": "faPuzzlePiece",
                     "title": "عالی",
                     "description": "پرتقالی",
                     "WhyMe":[
@@ -118,6 +118,7 @@
     ]
 
 }
+
 
 
 
