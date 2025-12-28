@@ -47,7 +47,7 @@
             ]
         }
     ],
-            "services": [
+            "Services": [
                 {
                     "id": 1,
                     "fontawesome": "faPuzzlePiece",
@@ -118,6 +118,7 @@
     ]
 
 }
+
 
 
 
