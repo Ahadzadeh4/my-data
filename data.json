@@ -4,11 +4,13 @@
             "Socialmedia": [
                 {
                     "id": 1,
+                    "name":"linkdin",
                     "fontawesome": "faLinkedin",
                     "link":"https://www.linkedin.com/in/hosein-ahadzadeh"
                 },
                  {
                     "id": 2,
+                     "name":"github",
                     "fontawesome": "faGithub",
                     "link":"https://github.com/Ahadzadeh4"
                 }
@@ -124,6 +126,7 @@
     ]
 
 }
+
 
 
 
