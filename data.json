@@ -114,7 +114,8 @@
                 {
                     "id": 1,
                     "title": "بیا",
-                    "svg": "Telegram"
+                    "svg": "Telegram",
+                    "link":"#"
                 }
             ]
         }
@@ -126,6 +127,7 @@
     ]
 
 }
+
 
 
 
