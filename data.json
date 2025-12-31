@@ -13,6 +13,12 @@
                      "name":"github",
                     "fontawesome": "faGithub",
                     "link":"https://github.com/Ahadzadeh4"
+                },
+                {
+                    "id": 3,
+                     "name":"instagram",
+                    "fontawesome": "faInstagram",
+                    "link":"https://www.instagram.com/hosein_frontend?utm_source=qr&igsh=MTZ1MzFtODFmaTVrdw=="
                 }
             ]
         }
@@ -127,6 +133,7 @@
     ]
 
 }
+
 
 
 
