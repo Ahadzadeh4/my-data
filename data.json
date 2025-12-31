@@ -26,8 +26,8 @@
     "Hero": [
         {
             "name": "حسین احدزاده",
-            "litle_description": "فرانت اند",
-            "big_description": "من فرانت اند کارم "
+            "litle_description": "سلام ، حسسین هستم توسعه دهنده فرانت اند . بیایید با من بیشتر آشنا بشیم",
+            "big_description": "Front-End Developer"
         }
     ],
     "About": [
@@ -133,6 +133,7 @@
     ]
 
 }
+
 
 
 
