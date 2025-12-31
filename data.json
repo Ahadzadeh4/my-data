@@ -145,7 +145,7 @@
          {
                     "id": 2,
                     "fontawesome": "faReact",
-                    "title": "توسعه فرانت با React && TypeScript",
+                    "title": "توسعه فرانت با <br> React & TypeScript",
                     "description": "توسعه فرانت و کامپوننت محور ، بهینه و استاندارد با استفاده از React و TypeScript",
                     "advantages": [
                         {
@@ -187,14 +187,14 @@
             ],
     "projects": [
         {
-            "title": "پروژه ها رو برم",
-            "description": "نگا",
+            "title": "پروژه های من",
+            "description": "نمونه کار هایی که با تکنولوژی های بروز و قدرتمند پیاده سازی کردم",
             "projects": [
                 {
                     "id": 1,
                     "img": "project1",
                     "title": "سایت شخصی",
-                    "description": "این",
+                    "description": "سایت شخصی برای نشون دادن مهارت ها و توانمندی هام",
                     "githubLink": "https://github.com/Ahadzadeh4",
                     "published": false,
                     "link": "",
@@ -205,7 +205,11 @@
                         },
                         {
                             "id": 2,
-                            "name": "c++"
+                            "name": "TypeScript"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Tailwind"
                         }
                     ]
                 }
@@ -233,6 +237,7 @@
     ]
 
 }
+
 
 
 
