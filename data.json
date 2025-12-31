@@ -39,18 +39,58 @@
     ],
     "Skills": [
         {
-            "title": "مهارت ها رو ",
-            "description": "یه نگاه بنداز",
+            "title": "مهارت های من",
+            "description": "همیشه سعی می کنم مهارت هامو بروز نگه دارم",
             "skills": [
                 {
                     "id": 1,
                     "svg": "HTML5",
-                    "title": "html"
+                    "title": "Html"
                 },
                 {
                     "id": 2,
                     "svg": "CSS",
-                    "title": "css"
+                    "title": "Css"
+                },
+                 {
+                    "id": 3,
+                    "svg": "JavaScript",
+                    "title": "JavaScript"
+                },
+                {
+                    "id": 4,
+                    "svg": "Tailwind",
+                    "title": "Tailwind"
+                },
+                {
+                    "id": 5,
+                    "svg": "Bootstrap",
+                    "title": "Bootstrap"
+                },
+                {
+                    "id": 6,
+                    "svg": "React",
+                    "title": "React"
+                },
+                {
+                    "id": 7,
+                    "svg": "TypeScript",
+                    "title": "TypeScript"
+                },
+                {
+                    "id": 8,
+                    "svg": "Vite",
+                    "title": "Vite"
+                },
+                {
+                    "id": 9,
+                    "svg": "Npm",
+                    "title": "Npm"
+                },
+                {
+                    "id": 10,
+                    "svg": "Git",
+                    "title": "Git"
                 }
             ]
         }
@@ -133,6 +173,7 @@
     ]
 
 }
+
 
 
 
