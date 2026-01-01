@@ -223,9 +223,15 @@
             "socialmedia_contact": [
                 {
                     "id": 1,
-                    "title": "بیا",
+                    "title": "telegram",
                     "svg": "Telegram",
-                    "link":"#"
+                    "link":"https://t.me/Ahadzadeh_hosein"
+                },
+                {
+                    "id": 2,
+                    "title": "email",
+                    "svg": "Envelope",
+                    "link":"hoseinahadzadeh0@gmail.com"
                 }
             ]
         }
@@ -237,6 +243,7 @@
     ]
 
 }
+
 
 
 
