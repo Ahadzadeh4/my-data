@@ -145,7 +145,8 @@
          {
                     "id": 2,
                     "fontawesome": "faReact",
-                    "title": "توسعه فرانت با <br> React & TypeScript",
+                    "title": "توسعه فرانت با React & TypeScript",
+             
                     "description": "توسعه فرانت و کامپوننت محور ، بهینه و استاندارد با استفاده از React و TypeScript",
                     "advantages": [
                         {
@@ -243,6 +244,7 @@
     ]
 
 }
+
 
 
 
