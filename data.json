@@ -198,13 +198,13 @@
                     "img": "project1",
                     "title": "سایت شخصی",
                     "description": "سایت شخصی برای نشون دادن مهارت ها و توانمندی هام",
-                    "githubLink": "https://github.com/Ahadzadeh4",
-                    "published": false,
-                    "link": "",
+                    "githubLink": "https://github.com/Ahadzadeh4/Portfolio",
+                    "published": true,
+                    "link": "https://hoseinahadzadehdev.netlify.app",
                     "technologies": [
                         {
                             "id": 1,
-                            "name": "react"
+                            "name": "React"
                         },
                         {
                             "id": 2,
@@ -235,6 +235,7 @@
     ]
 
 }
+
 
 
 
