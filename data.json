@@ -167,7 +167,7 @@
          {
                     "id": 3,
                     "fontawesome": "faRocket",
-             "FontawesomeColor":"text-Rose-600",
+             "FontawesomeColor":"text-rose-600",
                     "title": "بهینه سازی و ریسپانسیو",
                     "description": "افزایش سرعت و عملکرد سایت و طراحی واکنش گرا",
                     "advantages": [
@@ -246,6 +246,7 @@
     ]
 
 }
+
 
 
 
