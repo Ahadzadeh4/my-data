@@ -125,7 +125,7 @@
         {
                     "id": 1,
                     "fontawesome": "faPuzzlePiece",
-            "FontawesomeColor":"violet-600",
+            "FontawesomeColor":"text-violet-600",
                     "title": "طراحی رابط کاربری (UI)",
                     "description": "ساخت صفحات جذاب و مدرن با طراحی کاربر پسند",
                     "advantages": [
@@ -146,7 +146,7 @@
          {
                     "id": 2,
                     "fontawesome": "faReact",
-             "FontawesomeColor":"cyan-600",
+             "FontawesomeColor":"text-cyan-600",
                     "title": "React & TypeScript",
                     "description": "توسعه فرانت و کامپوننت محور ، بهینه و استاندارد با استفاده از React و TypeScript",
                     "advantages": [
@@ -167,7 +167,7 @@
          {
                     "id": 3,
                     "fontawesome": "faRocket",
-             "FontawesomeColor":"Rose-600",
+             "FontawesomeColor":"text-Rose-600",
                     "title": "بهینه سازی و ریسپانسیو",
                     "description": "افزایش سرعت و عملکرد سایت و طراحی واکنش گرا",
                     "advantages": [
@@ -246,6 +246,7 @@
     ]
 
 }
+
 
 
 
