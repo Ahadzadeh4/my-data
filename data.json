@@ -171,6 +171,27 @@
                 },
          {
                     "id": 3,
+                    "fontawesome": "faNextJs",
+             "FontawesomeColor":"text-black",
+                    "title": "Next.js",
+                    "description": "توسعه پروژه با next.js",
+                    "advantages": [
+                        {
+                            "id": 1,
+                            "text": "App Router "
+                        },
+                        {
+                            "id": 2,
+                            "text": "سئو"
+                        },
+                        {
+                            "id": 3,
+                            "text": "ساختار درست"
+                        }
+                    ]
+                },
+         {
+                    "id": 4,
                     "fontawesome": "faRocket",
              "FontawesomeColor":"text-rose-600",
                     "title": "بهینه سازی و ریسپانسیو",
@@ -240,6 +261,7 @@
     ]
 
 }
+
 
 
 
