@@ -79,16 +79,21 @@
                 },
                 {
                     "id": 8,
+                    "svg": "NextJs",
+                    "title": "Next.js"
+                },
+                {
+                    "id": 9,
                     "svg": "Vite",
                     "title": "Vite"
                 },
                 {
-                    "id": 9,
+                    "id": 10,
                     "svg": "Npm",
                     "title": "Npm"
                 },
                 {
-                    "id": 10,
+                    "id": 11,
                     "svg": "Git",
                     "title": "Git"
                 }
@@ -235,6 +240,7 @@
     ]
 
 }
+
 
 
 
